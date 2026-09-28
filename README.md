@@ -75,5 +75,5 @@ The board is stored as a dynamically allocated 2D character array. Ghost positio
 | File | Purpose |
 |---|---|
 | `pacman.cpp` | Game loop, movement, ghost AI, collision detection, and rendering |
-| `colours.cpp`, `colours.h` | Console colour helper (provided starter code) |
+| `colours.cpp`, `colours.h` | Console colour helper |
 | `map.txt` | Maze layout |
