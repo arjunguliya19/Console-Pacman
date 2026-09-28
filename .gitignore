@@ -1,0 +1,9 @@
+# Compiled output
+*.exe
+*.o
+*.obj
+
+# IDE files
+.idea/
+.vscode/
+cmake-build-*/
